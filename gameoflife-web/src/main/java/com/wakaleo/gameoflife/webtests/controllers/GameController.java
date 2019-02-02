@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.wakaleo.gameoflife.domain.Universe;
 
  /**
- * Wakaleo Consulting - John Ferguson Smart
+ * Wakaleo Consulting - John Ferguson Smart test
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
  * GameController.java
